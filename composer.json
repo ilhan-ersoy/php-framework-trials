@@ -1,0 +1,17 @@
+{
+    "name": "ilhan/php-fm",
+    "authors": [
+        {
+            "name": "ilhan-ersoy",
+            "email": "ilhanersoy@outlook.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\" : "./"
+        }
+    },
+    "require": {
+
+    }
+}
